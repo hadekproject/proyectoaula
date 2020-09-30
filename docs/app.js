@@ -1,4 +1,4 @@
-document.getElementById('formTask').addEventListener('submit', saveTask);
+/*document.getElementById('formTask').addEventListener('submit', saveTask);
 
 function saveTask(e) {
     
@@ -57,4 +57,4 @@ function deleteTask(title) {
     getTasks();
 }
 
-getTasks();
+getTasks();*/
